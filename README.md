@@ -22,7 +22,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |        **Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |          **jQuery**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |    **Publishing website**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|       **Git/Git bash**       |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |
+|       **Git/Git bash**       |                   |               |                 |                |                |
 |       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |         **Markdown**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |         **Node.js**          |   ![done][done]   |               |               |                  |                |               |
