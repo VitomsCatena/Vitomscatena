@@ -8,30 +8,31 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png 'Done'
 
-|            Skill             | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
+|           Skills             | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
 |          **HTML5**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
-|        **JavaScript**        |   ![done][done]   | ![done][done] |               |                  |                |               |
-|           **ES6**            |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
+|        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
+|           **ES6**            |                   |               |               |                  |                |               |
 |     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-|    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
+|    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |  [done][done]  |               |
 |       **Mobile first**       |                   |               |               |                  |                |               |
 |   **CSS Grid & Flex-box**    |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
-|           **Git**            |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |  ![done][done]             |
-|        **Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
+|           **Git**            |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
+|          **PHP**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
+|        **Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |          **jQuery**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |    **Publishing website**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|       **Git/Git bash**       |                   |               |                 |                |                |
+|       **Git/Git bash**       |                   |               |               |                  |                |
 |       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |         **Markdown**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|         **Node.js**          |   ![done][done]   |               |               |                  |                |               |
-|           **NPM**            |   ![done][done]   | ![done][done] |               |                  |                |               |
-| **Open Source Contribution** |   ![done][done]   | ![done][done] |               |                  |                |               |
-|          **React**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-|           **Vue**            |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-|         **FireBase**         |   ![done][done]   |               |               |                  |                |               |
-|          **Figma**           |   ![done][done]   | ![done][done] |               |                  |                |               |
+|         **Node.js**          |                   |               |               |                  |                |               |
+|           **NPM**            |                   |               |               |                  |                |               |
+| **Open Source Contribution** |                   |               |               |                  |                |               |
+|          **React**           |                   |               |               |                  |                |               |
+|           **Vue**            |                   |               |               |                  |                |               |
+|         **FireBase**         |                   |               |               |                  |                |               |
+|          **Figma**           |                   |               |               |                  |                |               |
 
 ---
 
