@@ -49,7 +49,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 |   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
 |   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
 |   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
-|   ![Completed][completed]   | Feb 2018 |        [PHP revision]                |                         [Codecademy]          |
+|   ![Completed][completed]   | Feb 2018 |        [PHP revision]                |               [Codecademy]                    |
 |   ![Completed][completed]   | Sep 2018 | [CSS Grid]                           |           [Wes Bos] - [cssgrid.io]            |
 | ![In Progress][in progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
 |        ![Soon][soon]        |          | [JavaScript30]                       |        [Wes Bos] - [javascript30.com]         |
@@ -65,6 +65,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [flexbox]: https://www.flexbox.io
 [css grid]: https://www.cssgrid.io
 [es6]: https://www.es6.io
+[Codecademy]: https://www.codecademy.com/learn
 [front end development]: https://www.freecodecamp.org/ritikpatni
 [google developer challenge scholarship]: https://www.udacity.com/google-scholarships
 [javascript30]: https://javascript30.com/
