@@ -74,7 +74,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [flexbox zombies]: https://mastery.games/p/flexbox-zombies
 [//]: # 'Reference links to tutors'
 [freecodecamp]: https://www.freecodecamp.org
-[udacity]: https://www.udacity.com
+[w3schools.com]: https://www.w3schools.com
 [wes bos]: https://twitter.com/wesbos
 [geddski]: https://twitter.com/geddski
 [per harald borgen]: https://twitter.com/perborgen
@@ -86,7 +86,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [flexbox.io]: https://flexbox.io
 [reactforbeginners.com]: https://reactforbeginners.com
 [mastery.games/p/flexbox-zombies]: https://mastery.games/p/flexbox-zombies
-[w3schools.com] : https://www.w3schools.com
+
 
 ## Web Development Checklist
 
