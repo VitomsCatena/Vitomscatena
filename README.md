@@ -45,16 +45,18 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 |           Status            | Year     | Course                               |                     Tutor                     |
 | :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
+|   ![Completed][completed]   | Feb 2021 | [Intro to webdev & software eng]     | [Robert Musili-(a friend)] [Mosh Hamadani]    |
 |   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |             [freecodecamp]                    |
 |   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
 |   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
 |   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
-|   ![Completed][completed]   | Feb 2018 |        [PHP revision]                |               [Codecademy]                    |
-|   ![Completed][completed]   | Sep 2018 | [CSS Grid]                           |           [Wes Bos] - [cssgrid.io]            |
-| ![In Progress][in progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
-|        ![Soon][soon]        |          | [JavaScript30]                       |        [Wes Bos] - [javascript30.com]         |
+|   ![Completed][completed]   | Aug 2023 |        [PHP revision]                |               [Codecademy]                    |
+|   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
+| ![In Progress][in progress] |          |             [C]                      |               [w3schools.com]                 |
+|        ![Soon][soon]        |          |       [Javascript]                   |        [W3schools.com]-[Codecademy]           |
+|        ![Soon][soon]        |          |       [Python]                       |                [freecodecamp]                 |
 |        ![Soon][soon]        |          | [ES6]                                |             [Wes Bos] - [es6.io]              |
-|        ![Soon][soon]        |          | [flexbox]                            |           [Wes Bos] - [flexbox.io]            |
+|        ![Soon][soon]        |          | [MySQL]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
 |        ![Soon][soon]        |          | [DailyUI]                            |                   [DailyUI]                   |
 
