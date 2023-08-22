@@ -97,29 +97,29 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
-- [x] Open the computer’s terminal. <achieved>
-- [x] Create and deploy my own ecommerce.
-- [x] Use some keyboard shortcuts.<Achieved>
+- [x] Open the computer’s terminal. 
+- [ ] Create and deploy my own ecommerce.
+- [x] Use some keyboard shortcuts.
 - [x] Write tests for other people's code.
-- [x] Help another web developer with something they’re having trouble with.
-- [x] Attend Dev fests.
-- [x] Attend developers conference outside my country.
+- [ ] Help another web developer with something they’re having trouble with.
+- [ ] Attend Dev fests.
+- [ ] Attend developers conference outside my country.
 - [x] Follow developers i admire on social media.
 - [x] Read a book about coding.
 - [x] Open my browser console.
-- [x] Get data from an API
+- [ ] Get data from an API
 - [ ] Hide API keys from the public.
 - [x] Post a question on Stack Overflow.
-- [x] Push code to GitHub or GitLab or BitBucket <doing it>
+- [x] Push code to GitHub or GitLab or BitBucket.
 - [ ] Speak about something web development-related at an event.
-- [x] Complete a technical interview
-- [x] Participate in a hackathon.
-- [x] Deploy projects.
-- [x] Become a renowned  developer or cybersecurity expert.
-- [x] Contribute to open source.
-- [x] Earn a living programming. :)
+- [ ] Complete a technical interview
+- [ ] Participate in a hackathon.
+- [ ] Deploy projects.
+- [ ] Become a renowned  developer or cybersecurity expert.
+- [ ] Contribute to open source.
+- [ ] Earn a living programming. :)
 - [x] When people ask what you do, respond saying you’re a developer :)
-- [X] Change my community and the world as a whole through tech.
+- [ ] Change my community and the world as a whole through tech.
 ---
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
