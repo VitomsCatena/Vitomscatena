@@ -1,4 +1,4 @@
-Am Victor Omondi techwise known as Vitoms-catena.
+Am Victor Onyango techwise known as Vitoms-catena.
 
 This is a  complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning journey.
 
@@ -44,11 +44,11 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 |           Status            | Year     | Course                               |                     Tutor                     |
 | :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
-|   ![Completed][completed]   | Aug 2017 | [Front End Development]              |                [freeCodeCamp]                 |
-|   ![Completed][completed]   | Nov 2017 | [Front End Web Developer NanoDegree] |                   [Udacity]                   |
-|   ![Completed][completed]   | Jan 2018 | [Learn CSS Grid]                     |        [Per Harald Borgen] - [Scrimba]        |
-|   ![Completed][completed]   | Feb 2018 | [React For Beginners]                |      [Wes Bos] - [reactforbeginners.com]      |
-|   ![Completed][completed]   | Feb 2018 | [Learn CSS Variables]                |        [Per Harald Borgen] - [Scrimba]        |
+|   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |                [freeCodeCamp]                 |
+|   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |                   [W3schools]                 |
+|   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
+|   ![Completed][completed]   | Jan 2023 |       [PHP]                          |                  [W3schools]                  |
+|   ![Completed][completed]   | Feb 2018 |        [PHP revision]                |                         [Codecademy]          |
 |   ![Completed][completed]   | Sep 2018 | [CSS Grid]                           |           [Wes Bos] - [cssgrid.io]            |
 | ![In Progress][in progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
 |        ![Soon][soon]        |          | [JavaScript30]                       |        [Wes Bos] - [javascript30.com]         |
@@ -92,36 +92,37 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
-- [x] Open the computer’s terminal
-- [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-- [x] Use some keyboard shortcuts
-- [x] Write tests for your code
-- [x] Help another web developer with something they’re having trouble with
-- [ ] Attend an event about web development
-- [x] Follow developers you admire on social media
-- [x] Read a book about coding
-- [x] Open your browser console
+- [x] Open the computer’s terminal. <achieved>
+- [x] Create and deploy my own ecommerce.
+- [x] Use some keyboard shortcuts.<Achieved>
+- [x] Write tests for other people's code.
+- [x] Help another web developer with something they’re having trouble with.
+- [x] Attend Dev fests.
+- [x] Attend developers conference outside my country.
+- [x] Follow developers i admire on social media.
+- [x] Read a book about coding.
+- [x] Open my browser console.
 - [x] Get data from an API
-- [ ] Hide API keys from the public
-- [x] Post a question on Stack Overflow
-- [x] Push code to GitHub or GitLab or BitBucket
-- [ ] Speak about something web development-related at an event
+- [ ] Hide API keys from the public.
+- [x] Post a question on Stack Overflow.
+- [x] Push code to GitHub or GitLab or BitBucket <doing it>
+- [ ] Speak about something web development-related at an event.
 - [x] Complete a technical interview
-- [x] Participate in a hackathon
-- [x] Deploy a project
-- [x] Ship your project to a store
-- [x] Contribute to open source
-- [x] Get paid to code
+- [x] Participate in a hackathon.
+- [x] Deploy projects.
+- [x] Become a renowned  developer or cybersecurity expert.
+- [x] Contribute to open source.
+- [x] Earn a living programming. :)
 - [x] When people ask what you do, respond saying you’re a developer :)
-
+- [X] Change my community and the world as a whole through tech.
 ---
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
 This is a learning tracker based on the learning tracker by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker).If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can connect with me on [Twitter](https://twitter.com/03ritikpatni '@03ritikpatni')**
-
+**You can connect with me on[X] fomerly known as [Twitter](https://twitter.com/Afrikaan_dream?t=UPyGoHBhFTYN3oVLnrjoyw&s=09)**
+**You can also connect with me on [Whatsapp] (https://wa.me/254799802335)**
 ---
 
 ### Acknowledgments
