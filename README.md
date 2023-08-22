@@ -127,7 +127,7 @@ If you find this useful for your own needs you are welcome to fork a copy, custo
 This is a learning tracker based on the learning tracker by [Syk Houdeib](https://github.com/Syknapse/My-Learning-Tracker).If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
 **You can connect with me on[X] fomerly known as [Twitter](https://twitter.com/Afrikaan_dream?t=UPyGoHBhFTYN3oVLnrjoyw&s=09)**
-**You can also connect with me on [Whatsapp] (https://wa.me/254799802335)**
+**You can also connect with me on [Whatsapp](https://wa.me/254799802335)**
 ---
 
 ### Acknowledgments
