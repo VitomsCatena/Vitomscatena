@@ -45,7 +45,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 |           Status            | Year     | Course                               |                     Tutor                     |
 | :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
-|   ![Completed][completed]   | Feb 2021 | [Intro to webdev & software eng]     | [Robert Musili-(a friend)] [Mosh Hamadani]    |
+|   ![Completed][completed]   | Feb 2021 | [Intro to webdev & software eng]     | [Robert Musili-(a friend)] [Mosh Hamedani]    |
 |   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |             [freecodecamp]                    |
 |   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
 |   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
