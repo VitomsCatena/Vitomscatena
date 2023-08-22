@@ -45,10 +45,10 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 |           Status            | Year     | Course                               |                     Tutor                     |
 | :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
-|   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |   [freecodecamp] - [freecodecamp.org]         |
-|   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |      [w3schools.com]                          |
+|   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |          [freecodecamp.org]                   |
+|   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
 |   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
-|   ![Completed][completed]   | Jan 2023 |       [PHP]                          |                  [W3schools]                  |
+|   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
 |   ![Completed][completed]   | Feb 2018 |        [PHP revision]                |                         [Codecademy]          |
 |   ![Completed][completed]   | Sep 2018 | [CSS Grid]                           |           [Wes Bos] - [cssgrid.io]            |
 | ![In Progress][in progress] |          | [Flexbox Zombies]                    | [Geddski] - [mastery.games/p/flexbox-zombies] |
