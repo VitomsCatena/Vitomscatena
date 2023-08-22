@@ -1,6 +1,6 @@
-# My Learning Tracker
+Am Victor Omondi techwise known as Vitoms-catena.
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning.
+This is a  complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning journey.
 
 ---
 
