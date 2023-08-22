@@ -45,7 +45,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 
 |           Status            | Year     | Course                               |                     Tutor                     |
 | :-------------------------: | :------- | :----------------------------------- | :-------------------------------------------: |
-|   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |          [freecodecamp.org]                   |
+|   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |             [freecodecamp]                    |
 |   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
 |   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
 |   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
