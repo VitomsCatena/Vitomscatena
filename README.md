@@ -85,6 +85,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [flexbox.io]: https://flexbox.io
 [reactforbeginners.com]: https://reactforbeginners.com
 [mastery.games/p/flexbox-zombies]: https://mastery.games/p/flexbox-zombies
+[w3schools.com] : https://www.w3schools.com
 
 ## Web Development Checklist
 
