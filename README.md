@@ -14,18 +14,18 @@ This is a  complete log of my web development skills, learning, resources, highl
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
 |           **ES6**            |                   |               |               |                  |                |               |
-|     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-|    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |  ![done][done]  |               |
+|     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
+|    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |       **Mobile first**       |                   |               |               |                  |                |               |
 |   **CSS Grid & Flex-box**    |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
 |           **Git**            |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
-|          **PHP**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
+|          **PHP**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |        **Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
-|          **jQuery**          |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|    **Publishing website**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|       **Git/Git bash**       |                   |               |               |                  |                |
+|          **jQuery**          |                   |               |               |                  |                |               |
+|    **Publishing website**    |                   |               |               |                  |                |               |
+|       **Github**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |  ![done][done] |               |
 |       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
-|         **Markdown**         |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
+|         **Markdown**         |                   |               |               |                  |                |               |
 |         **Node.js**          |                   |               |               |                  |                |               |
 |           **NPM**            |                   |               |               |                  |                |               |
 | **Open Source Contribution** |                   |               |               |                  |                |               |
