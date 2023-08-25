@@ -82,7 +82,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [//]: # 'Reference links to tutors'
 [freecodecamp]: https://www.freecodecamp.org
 [w3schools.com]: https://www.w3schools.com
-[jsmastery]: https://www.jsmastery.pro
+[jsmastery]:https://www.jsmastery.pro
 [wes bos]: https://twitter.com/wesbos
 [geddski]: https://twitter.com/geddski
 [per harald borgen]: https://twitter.com/perborgen
