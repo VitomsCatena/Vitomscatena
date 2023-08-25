@@ -53,12 +53,16 @@ This is a  complete log of my web development skills, learning, resources, highl
 |   ![Completed][completed]   | Aug 2023 |        [PHP revision]                |               [Codecademy]                    |
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
 | ![In Progress][in progress] |          |             [C]                      |               [w3schools.com]                 |
+| ![In Progress][in progress] |          |            [MySQL]                   |               [w3schools.com]                 |
 |        ![Soon][soon]        |          |       [Javascript]                   |        [W3schools.com]-[Codecademy]           |
 |        ![Soon][soon]        |          |       [Python]                       |                [freecodecamp]                 |
 |        ![Soon][soon]        |          | [ES6]                                |             [Wes Bos] - [es6.io]              |
-|        ![Soon][soon]        |          | [MySQL]                              |                  [w3schools.com]              |
+|        ![Soon][soon]        |          | [REACT]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
 |        ![Soon][soon]        |          | [DailyUI]                            |                   [DailyUI]                   |
+|        ![soon][soon]        |          |             [Typescript]             |               [w3schools.com]                 |
+|        ![soon][soon]        |          |             [Tailwind-css]           |               [jsmastery.pro]                 |
+
 
 [//]: # 'Reference links to courses'
 [react for beginners]: https://www.reactforbeginners.com
@@ -78,6 +82,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [//]: # 'Reference links to tutors'
 [freecodecamp]: https://www.freecodecamp.org
 [w3schools.com]: https://www.w3schools.com
+[jsmastery]: https://www.jsmastery.pro
 [wes bos]: https://twitter.com/wesbos
 [geddski]: https://twitter.com/geddski
 [per harald borgen]: https://twitter.com/perborgen
