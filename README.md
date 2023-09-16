@@ -54,8 +54,8 @@ This is a  complete log of my web development skills, learning, resources, highl
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
 | ![In Progress][in progress] |          |             [C]                      |               [w3schools.com]                 |
 | ![In Progress][in progress] |          |            [MySQL]                   |               [w3schools.com]                 |
-| ![In Progress][In Progress] |          |       [Javascript]                   |        [W3schools.com]-[ALX-Africa]           |
-| ![In Progress][In Progress] |          |       [Python]                       |        [freecodecamp] [AlX-Africa]            |
+| ![In Progress][In Progress] |          |       [Javascript]                   |      [W3schools.com]   [ALX-Africa]           |
+| ![In Progress][In Progress] |          |       [Python]                       |    [freecodecamp]     [AlX-Africa]            |
 |        ![Soon][soon]        |          | [ES6]                                |             [Wes Bos] - [es6.io]              |
 |        ![Soon][soon]        |          | [REACT]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
