@@ -54,8 +54,8 @@ This is a  complete log of my web development skills, learning, resources, highl
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
 | ![In Progress][in progress] |          |             [C]                      |               [w3schools.com]                 |
 | ![In Progress][in progress] |          |            [MySQL]                   |               [w3schools.com]                 |
-|        ![Soon][soon]        |          |       [Javascript]                   |        [W3schools.com]-[Codecademy]           |
-|        ![Soon][soon]        |          |       [Python]                       |                [freecodecamp]                 |
+| ![In Progress][In Progress] |          |       [Javascript]                   |        [W3schools.com]-[ALX-Africa]           |
+| ![In Progress][In Progress] |          |       [Python]                       |        [freecodecamp] [AlX-Africa]            |
 |        ![Soon][soon]        |          | [ES6]                                |             [Wes Bos] - [es6.io]              |
 |        ![Soon][soon]        |          | [REACT]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
@@ -71,6 +71,8 @@ This is a  complete log of my web development skills, learning, resources, highl
 [flexbox]: https://www.flexbox.io
 [css grid]: https://www.cssgrid.io
 [es6]: https://www.es6.io
+[Python]: https://www.alxafrica.com/
+[Javascript]: https://www.alxafrica.com/
 [Codecademy]: https://www.codecademy.com/learn
 [front end development]: https://www.freecodecamp.org/ritikpatni
 [google developer challenge scholarship]: https://www.udacity.com/google-scholarships
@@ -78,6 +80,7 @@ This is a  complete log of my web development skills, learning, resources, highl
 [learn css grid]: https://scrimba.com/g/gR8PTE
 [learn css variables]: https://scrimba.com/p/ppYrcJ
 [learn redux]: https://learnredux.com
+[ALX-Africa]: https://www.alxafrica.com/
 [flexbox zombies]: https://mastery.games/p/flexbox-zombies
 [//]: # 'Reference links to tutors'
 [freecodecamp]: https://www.freecodecamp.org
