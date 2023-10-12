@@ -10,7 +10,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png 'Done'
 
-|           Skills             | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
+|          **Skills**          | 1<br>Introduction |  2<br>Basics  |   3<br>Good   | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome  |
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
 |          **HTML5**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
@@ -111,7 +111,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 - [ ] Create and deploy my own ecommerce.
 - [x] Use some keyboard shortcuts.
 - [x] Write tests for other people's code.
-- [ ] Help another web developer with something they’re having trouble with.
+- [x] Help another web developer with something they’re having trouble with.
 - [ ] Attend Dev fests.
 - [ ] Attend developers conference outside my country.
 - [x] Follow developers i admire on social media.
