@@ -51,15 +51,15 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |   ![Completed][completed]   | Feb 2021 | [Intro to webdev & software eng]     | [Robert Musili-(a friend)] [Mosh Hamedani]    |
 |   ![Completed][completed]   | Aug 2021 | [Responsive Web Design]              |             [freecodecamp]                    |
 |   ![Completed][completed]   | Jan 2021 | [HTML and CSS]                       |            [w3schools.com]                    |
-|   ![Completed][completed]   | June 2022|   [Ms excel/office]                  |  [local institution] [infotech insitute]      |
-|   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
-|   ![Completed][completed]   | Aug 2023 |        [PHP revision]                |               [Codecademy]                    |
+|   ![Completed][completed]   | June 2022| [Ms excel/office]                    |  [local institution] [infotech insitute]      |
+|   ![Completed][completed]   | Jan 2023 | [PHP]                                |              [w3schools.com]                  |
+|   ![Completed][completed]   | Aug 2023 |  [PHP revision]                      |               [Codecademy]                    |
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
-|   ![Completed][Completed]   |          |             [C]                      |        [ALX-Africa]   [w3schools.com]         |
-| ![In Progress][in progress] |          |            [MySQL]                   |               [w3schools.com]                 |
+|   ![Completed][Completed]   | Sep 2023 |             [C]                      |        [ALX-Africa]   [w3schools.com]         |
+| ![In Progress][in progress] | Oct 2023 |            [MySQL]                   |               [w3schools.com]                 |
 | ![In Progress][In Progress] |          |       [Javascript]                   |      [W3schools.com]   [ALX-Africa]           |
 | ![In Progress][In Progress] |          |       [Python]                       |    [freecodecamp]     [AlX-Africa]            |
-|        ![Soon][soon]        |          | [ES6]                                |             [Wes Bos] - [es6.io]              |
+|        ![Soon][soon]        |          |       [ES6]                                |             [Wes Bos] - [es6.io]              |
 |        ![Soon][soon]        |          | [REACT]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
 |        ![Soon][soon]        |          | [DailyUI]                            |                   [DailyUI]                   |
