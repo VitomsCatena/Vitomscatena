@@ -17,6 +17,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
 |           **ES6**            |                   |               |               |                  |                |               |
 |     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
+|        **Python**            |  ![done][done]    | ![done][done] | ![done][done] |                  |
 |    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |       **Mobile first**       |                   |               |               |                  |                |               |
 |   **CSS Grid & Flex-box**    |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
