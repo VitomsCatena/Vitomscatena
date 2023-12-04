@@ -55,7 +55,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |   ![Completed][completed]   | Jan 2023 |       [PHP]                          |              [w3schools.com]                  |
 |   ![Completed][completed]   | Aug 2023 |        [PHP revision]                |               [Codecademy]                    |
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
-| ![In Progress][in progress] |          |             [C]                      |               [w3schools.com]                 |
+|   ![Completed][Completed]   |          |             [C]                      |        [ALX-Africa]   [w3schools.com]         |
 | ![In Progress][in progress] |          |            [MySQL]                   |               [w3schools.com]                 |
 | ![In Progress][In Progress] |          |       [Javascript]                   |      [W3schools.com]   [ALX-Africa]           |
 | ![In Progress][In Progress] |          |       [Python]                       |    [freecodecamp]     [AlX-Africa]            |
