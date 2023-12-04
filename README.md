@@ -16,6 +16,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
 |           **C**              |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
+|        **MYSQL**             | ![done][done]     | ![done][done] | ![done][done] | ![done][]        |                |               |
 |     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
 |        **Python**            |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
 |    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
