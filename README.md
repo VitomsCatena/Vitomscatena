@@ -56,10 +56,10 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |   ![Completed][completed]   | Aug 2023 |  [PHP revision]                      |               [Codecademy]                    |
 |   ![Completed][completed]   | Aug 2023 |      [CSS Grid]                      |               [Codecademy]                    |
 |   ![Completed][Completed]   | Sep 2023 |             [C]                      |        [ALX-Africa]   [w3schools.com]         |
-| ![In Progress][in progress] | Oct 2023 |            [MySQL]                   |               [w3schools.com]                 |
+| ![Completed][Completed]     | Oct 2023 |            [MySQL]                   |               [w3schools.com]                 |
 | ![In Progress][In Progress] |          |       [Javascript]                   |      [W3schools.com]   [ALX-Africa]           |
 | ![In Progress][In Progress] |          |       [Python]                       |    [freecodecamp]     [AlX-Africa]            |
-|        ![Soon][soon]        |          |       [ES6]                                |             [Wes Bos] - [es6.io]              |
+|        ![Soon][soon]        |          |       [ES6]                          |             [Wes Bos] - [es6.io]              |
 |        ![Soon][soon]        |          | [REACT]                              |                  [w3schools.com]              |
 |        ![Soon][soon]        |          | [Learn Redux]                        |         [Wes Bos] - [learnredux.com]          |
 |        ![Soon][soon]        |          | [DailyUI]                            |                   [DailyUI]                   |
