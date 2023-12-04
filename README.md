@@ -27,7 +27,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |          **jQuery**          |                   |               |               |                  |                |               |
 |    **Publishing website**    |                   |               |               |                  |                |               |
 |       **Github**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |  ![done][done] |               |
-|       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
+|       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |         **Markdown**         |                   |               |               |                  |                |               |
 |         **Node.js**          |                   |               |               |                  |                |               |
 |           **NPM**            |                   |               |               |                  |                |               |
