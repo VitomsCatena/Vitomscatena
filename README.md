@@ -15,9 +15,9 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |          **HTML5**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
-|           **ES6**            |                   |               |               |                  |                |               |
+|           **C**              |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
 |     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
-|        **Python**            |  ![done][done]    | ![done][done] | ![done][done] |                  |
+|        **Python**            |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
 |    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |       **Mobile first**       |                   |               |               |                  |                |               |
 |   **CSS Grid & Flex-box**    |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
