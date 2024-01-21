@@ -26,7 +26,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |          **PHP**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |        **Bootstrap**         |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |          **jQuery**          |                   |               |               |                  |                |               |
-|    **Publishing website**    |                   |               |               |                  |                |               |
+|    **Publishing website**    |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 |       **Github**             |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |  ![done][done] |               |
 |       **Command line**       |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
 |         **Markdown**         |                   |               |               |                  |                |               |
