@@ -126,7 +126,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 - [ ] Speak about something web development-related at an event.
 - [ ] Complete a technical interview
 - [ ] Participate in a hackathon.
-- [ ] Deploy projects.
+- [X] Deploy projects.
 - [ ] Become a renowned  developer or cybersecurity expert.
 - [ ] Contribute to open source.
 - [ ] Earn a living programming. :)
