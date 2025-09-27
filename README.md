@@ -35,8 +35,8 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 | **Open Source Contribution** |                   |               |               |                  |                |               |
 |          **React**           |                   |               |               |                  |                |               |
 |           **Vue**            |                   |               |               |                  |                |               |
-|         **FireBase**         |                   |               |               |                  |                |               |
-|          **Figma**           |                   |               |               |                  |                |               |
+|         **FireBase**         |   ![done][done]   |               |               |                  |                |               |
+|          **Figma**           |   ![done][done]   |               |               |                  |                |               |
 
 ---
 
