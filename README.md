@@ -14,9 +14,9 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 | :--------------------------: | :---------------: | :-----------: | :-----------: | :--------------: | :------------: | :-----------: |
 |          **HTML5**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
 |           **CSS3**           |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  | ![done][done] |
-|        **JavaScript**        |   ![done][done]   |               |               |                  |                |               |
+|        **JavaScript**        |   ![done][done]   | ![done][done] |               |                  |                |               |
 |           **C**              |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
-|        **MYSQL**             | ![done][done]     | ![done][done] | ![done][done] | ![done][]        |                |               |
+|        **MYSQL**             |  ![done][done]    | ![done][done] | ![done][done] | ![done][]        |                |               |
 |     **Website Building**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   | ![done][done]  |               |
 |        **Python**            |  ![done][done]    | ![done][done] | ![done][done] |                  |                |               |
 |    **Responsive design**     |   ![done][done]   | ![done][done] | ![done][done] |  ![done][done]   |                |               |
@@ -35,8 +35,8 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 | **Open Source Contribution** |                   |               |               |                  |                |               |
 |          **React**           |                   |               |               |                  |                |               |
 |           **Vue**            |                   |               |               |                  |                |               |
-|         **FireBase**         |   ![done][done]   |               |               |                  |                |               |
-|          **Figma**           |   ![done][done]   |               |               |                  |                |               |
+|         **FireBase**         |   ![done][done]   | ![done][done] |               |                  |                |               |
+|          **Figma**           |   ![done][done]   | ![done][done] | ![done][done] |                  |                |               |
 
 ---
 
@@ -124,7 +124,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 - [x] Post a question on Stack Overflow.
 - [x] Push code to GitHub or GitLab or BitBucket.
 - [ ] Speak about something web development-related at an event.
-- [ ] Complete a technical interview
+- [X] Complete a technical interview
 - [ ] Participate in a hackathon.
 - [X] Deploy projects.
 - [ ] Become a renowned  developer or cybersecurity expert.
