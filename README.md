@@ -1,6 +1,6 @@
-   **HELLO!!**
+   **HELLO THERE!!**
    
-I am **Victor Omondi** techwise known as Vitoms-catena.
+My name is **Victor Omondi** you can call me _Vitoms_.
 
 This is a  complete log of my web development *skills,*  _learning,_  ~resources,~  *highlights* interests, and everything to do with my learning. It's a way to keep -track- , organize, and share my learning journey.
 
@@ -33,6 +33,7 @@ This is a  complete log of my web development *skills,*  _learning,_  ~resources
 |         **Node.js**          |                   |               |               |                  |                |               |
 |           **NPM**            |                   |               |               |                  |                |               |
 | **Open Source Contribution** |                   |               |               |                  |                |               |
+|        **Wordpress**         |   ![done][done]   | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |
 |          **React**           |                   |               |               |                  |                |               |
 |           **Vue**            |                   |               |               |                  |                |               |
 |         **FireBase**         |   ![done][done]   | ![done][done] |               |                  |                |               |
